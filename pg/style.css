@@ -1,6 +1,6 @@
-body{background-color:#222021; }
+body {background-color:#222021; }
 table, th, td {text-align: center; width:auto; margin-left: auto; margin-right:auto;}
 h1, h2, h3, p{font-family: Century Gothic; color: white; text-align: center;}
-a{font-family: Century Gothic; color: white;}
-img {text-align: center; width:auto; margin-left: auto; margin-right:auto; boarder:1 pt;}
-ol, ul. li{font-family: Century Gothic; color: white;}
+a {font-family: Century Gothic; color: white;}
+img {text-align: center;}
+ol, ul. li {font-family: Century Gothic; color: white;}
